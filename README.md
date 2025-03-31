@@ -1,7 +1,7 @@
 Hi there! 👋 I'm Hil Vasoya</br>
 🎮 Aspiring Game Developer. </br>
 📍 Passionate about C#, Unity, and Python.</br>
-📚 Currently studying Shree Atmanand Saraswati Institute of Technology.</br>
+📚 Currently studying Bachelor Of Engineering - Computer Science.</br>
 
 🚀 About Me:</br>
 🎮 I'm passionate about Game Development and interactive experiences.</br>
