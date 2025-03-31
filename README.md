@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Hil Vasoya
+Hi there! 👋 I'm Hil Vasoya</br>
 🎮 Aspiring Game Developer 
 📍 Passionate about C#, Unity, and Python
 📚 Currently studying Shree Atmanand Saraswati Institute of Technology
@@ -9,17 +9,17 @@ Hi there! 👋 I'm Hil Vasoya
 🐍 Exploring Python for automation, AI, and scripting.
 🏗️ Building projects that blend creativity with technology.
 
-🔧 Technologies & Tools:
+🔧 Technologies & Tools:</br>
 Languages: C#, Python, JavaScript
 Game Engines: Unity
 Development Tools: Visual Studio, Git, GitHub, Blender (for assets)
 Other Interests: AI in games, game physics, procedural generation
 
-📌 What I'm Working On:
+📌 What I'm Working On:</br>
 🎮 Developing a game project in Unity.
 🤖 Exploring AI and machine learning for game mechanics.
 
-🤝 Let's Connect!
+🤝 Let's Connect!</br>
 📧 Email: [hilvasoya5114@gmail.com]
 🔗 LinkedIn: [https://www.linkedin.com/in/hilvasoya/]
 
